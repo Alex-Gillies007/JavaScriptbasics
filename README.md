@@ -1,3 +1,3 @@
-# My Game is Cool!
+# Basic Javascript
 
-Make sure you give it a good description here...
+Storage and notes for Javascript code in videogamedev

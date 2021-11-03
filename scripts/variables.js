@@ -26,5 +26,5 @@ console.log(leg, bar);
 	let bar = 20;
 
 	var leg = 32;
-	console.log(foo, bar);
+	console.log(leg, bar);
 }
